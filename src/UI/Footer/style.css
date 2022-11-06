@@ -1,0 +1,11 @@
+.footer{
+    list-style: none;
+}
+li{
+    display: flex;
+    align-items: center;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+ overflow-x: hidden;
+ 
+
+}
+.qwerty{
+    padding:20px 20px !important;
+}
+.activeBorder{
+    padding-bottom: 5px;
+border-bottom:  2px solid red;
+}
+.page-item{
+    cursor: pointer;
+}
